@@ -1,1 +1,1 @@
-# athletics-api
+# athletics-api + JWT
